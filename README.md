@@ -1,1 +1,2 @@
 # learning-rust
+# This repository records all the exercises I have done while learning rust. I am following https://doc.rust-lang.org/book/ch08-03-hash-maps.html for learning. The exercises done here are all included in this link.
